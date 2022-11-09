@@ -1,0 +1,61 @@
+{
+    "name": "Israel Mello (Charrels)",
+    "job": "Student",
+    "github": "Charrels22",
+    "playlists": {
+        "League of Legends - Campeões em Destaques": [
+            {
+                "title": "Braum, o Coração de Freljord - Mecânica de Jogo",
+                "url": "https://www.youtube.com/watch?v=WZgUVChfH54",
+                "thumb": "https://img.youtube.com/vi/WZgUVChfH54/hqdefault.jpg"
+            },
+            {
+                "title": "Atualização da Morgana - Mecânica de Jogo",
+                "url": "https://www.youtube.com/watch?v=6b_EqqY0mnI",
+                "thumb": "https://img.youtube.com/vi/6b_EqqY0mnI/hqdefault.jpg"
+            },
+            {
+                "title": "Pyke, o Estripador das Águas Sangrentas - Mecânica de Jogo",
+                "url": "https://www.youtube.com/watch?v=ROJFgABLZC0",
+                "thumb": "https://img.youtube.com/vi/ROJFgABLZC0/hqdefault.jpg"
+            },
+            {
+                "title": "Raka, o Encantador - Mecânica de Jogo",
+                "url": "https://www.youtube.com/watch?v=869miZsatzQ",
+                "thumb": "https://img.youtube.com/vi/869miZsatzQ/hqdefault.jpg"
+            },
+            {
+                "title": "Taric, o Escudo de Valoran - Mecânica de Jogo",
+                "url": "https://www.youtube.com/watch?v=QYEkoRLFPyk",
+                "thumb": "https://img.youtube.com/vi/QYEkoRLFPyk/hqdefault.jpg"
+            }
+        ],
+        "Melhores Series": [
+            {
+                "title": "Black Mirror - Arkangel | Trailer Oficial",
+                "url": "https://www.youtube.com/watch?v=R4sGOhNqOpQ",
+                "thumb": "https://img.youtube.com/vi/R4sGOhNqOpQ/hqdefault.jpg"
+            },
+            {
+                "title": "Peaky Blinders | Trailer Oficial",
+                "url": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+                "thumb": "https://img.youtube.com/vi/oVzVdvGIC7U/hqdefault.jpg"
+            },
+            {
+                "title": "Vikins - Valhalla | Trailer Oficial",
+                "url": "https://www.youtube.com/watch?v=nHMQBg6Zduc",
+                "thumb": "https://img.youtube.com/vi/nHMQBg6Zduc/hqdefault.jpg"
+            },
+            {
+                "title": "Games of Thrones | Trailer Oficial",
+                "url": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+                "thumb": "https://img.youtube.com/vi/KPLWWIOCOOQ/hqdefault.jpg"
+            },
+            {
+                "title": "House of the Dragon | Trailer Oficial",
+                "url": "https://www.youtube.com/watch?v=ZRiVkm7-ENU",
+                "thumb": "https://img.youtube.com/vi/ZRiVkm7-ENU/hqdefault.jpg"
+            }
+        ]
+    }
+}
