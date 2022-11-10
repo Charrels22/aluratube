@@ -1,3 +1,4 @@
+import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
 import { CSSReset } from "../src/components/CSSReset";
@@ -5,15 +6,6 @@ import Menu from "../src/components/Menu";
 import { StyledTimeline }from "../src/components/Timeline";
 
 function HomePage() {
-    const estiloDaHomePage = { 
-        // display: "flex",
-        // flexDirection: "column",
-        // flex: 1,
-        //backgroundColor: "red"
-    };
-
-    // console.log(config.playlists);
-
     return(
         <>
             <CSSReset />       
@@ -32,14 +24,6 @@ function HomePage() {
   
   export default HomePage;
 
-//   function Menu(){
-//     return(
-//         <div>
-//             Menu
-//         </div>
-//     )
-//   }  
-  
   const StyledHeader = styled.div`
     img {
         width: 80px;
@@ -47,7 +31,7 @@ function HomePage() {
         border-radius: 50%;
     }
     .user-info {
-        margin-top: 50px;
+        margin-top: 20px;
         display: flex;
         align-items: center;
         width: 100%;
@@ -55,10 +39,19 @@ function HomePage() {
         gap: 16px;
     }
   `;
+
+  const StyledBanner = styled.div`
+    background-image: url(${({ bnn })=> bnn});
+    background-position: top;
+    height: 400px;
+  `;
+
+
   function Header(){
     return(
+        
         <StyledHeader>
-            {/*<img src="banner" />*/}
+            <StyledBanner bnn={config.bnn} />
 
             <section className="user-info">
                 <img src={`https://github.com/${config.github}.png`} />
